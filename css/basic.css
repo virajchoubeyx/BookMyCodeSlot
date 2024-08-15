@@ -1,0 +1,51 @@
+@media screen and (max-width:768px){
+    #mainNav{
+        width: 85%;
+        display: block !important;
+        text-align: center;  
+    }
+
+    #footerImg{
+        width: 100%;
+        display: block !important;
+    }
+
+}
+
+#whtsAp{
+    color: white; background-color:Green; font-size:14px;
+    width: 100%;
+    text-wrap:pretty;
+    margin-top:16px;
+    padding: 4px;
+    display: block;    
+}
+
+#footerImg{
+    margin-top: 45px;
+    width: inherit;
+    height: 320px;
+    display: flex !important;
+}
+
+#mailText{
+    font-size: 22px;
+    color: black;
+}
+
+#mailText a{
+    color: rgb(122, 6, 6);
+    font: size 22px;
+}
+
+#textService{
+    color: black;
+}
+
+#textServiceW{
+    color: white;
+}
+
+#aboutPic{
+    height:780px;
+}
